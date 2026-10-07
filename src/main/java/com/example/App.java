@@ -2,6 +2,6 @@ package com.example;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello from DevOps CI/CD Pipeline!");
+	System.out.println("Hello from Automated CI/CD Pipeline!");
     }
 }
